@@ -1,6 +1,6 @@
 # TROPIX
 
-> Descrição retirada do [site original(http://www.tropix.nce.ufrj.br/). Aparentemente, o sistema teve seu desenvolvimento suspenso.
+> Descrição retirada do [site original](http://www.tropix.nce.ufrj.br/). Aparentemente, o sistema teve seu desenvolvimento suspenso.
 
 O TROPIX (pronuncia-se "Trópix") é um Sistema Operacional multiusuário e multitarefa, de filosofia UNIX®, desenvolvido no Núcleo de Computação Eletrônica da Universidade Federal do Rio de Janeiro (NCE/UFRJ).
 
